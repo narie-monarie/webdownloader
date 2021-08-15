@@ -13,3 +13,6 @@ Thirdly, "give it" full read and write permission (chmod 777 or chmod +x)
 lastly run the script ./site.sh 
 
 wallah! you are done.
+
+
+for macOS users install wget first by using this command: *brew install wget*
